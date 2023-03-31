@@ -1,0 +1,1001 @@
+gender;race/ethnicity;parental level of education;lunch;test preparation course;math score;reading score;writing score
+female;group B;bachelor's degree;standard;none;69,59979869372896;72;74
+female;group C;some college;standard;completed;59,569645063792336;90;88
+female;group B;master's degree;standard;none;66,65791655439577;95;93
+male;group A;associate's degree;free/reduced;none;70,0694495945403;57;44
+male;group C;some college;standard;none;61,262022848046456;78;75
+female;group B;associate's degree;standard;none;97,86807828328261;83;78
+female;group B;some college;standard;completed;76,73819758760536;95;92
+male;group B;some college;free/reduced;none;70,18138501442957;43;39
+male;group D;high school;free/reduced;completed;59,525920264396;64;67
+female;group B;high school;free/reduced;none;68,06789916486201;60;50
+male;group C;associate's degree;standard;none;72,50146822078297;54;52
+male;group D;associate's degree;standard;none;80,88656810365674;52;43
+female;group B;high school;standard;none;94,98622462256819;81;73
+male;group A;some college;standard;completed;62,90301515399517;72;70
+female;group A;master's degree;standard;none;84,56342969675693;53;58
+female;group C;some high school;standard;none;67,9189386296223;75;78
+male;group C;high school;standard;none;95,4139980161462;89;86
+female;group B;some high school;free/reduced;none;55,16472925786591;32;28
+male;group C;master's degree;free/reduced;completed;61,710652226313805;42;46
+female;group C;associate's degree;free/reduced;none;62,624053886539514;58;61
+male;group D;high school;standard;none;75,17974726765807;69;63
+female;group B;some college;free/reduced;completed;59,28138123938036;75;70
+male;group D;some college;standard;none;69,44989943108226;54;53
+female;group C;some high school;standard;none;69,40919060948235;73;73
+male;group D;bachelor's degree;free/reduced;completed;68,26234650847525;71;80
+male;group A;master's degree;free/reduced;none;74,35137054093585;74;72
+male;group B;some college;standard;none;90,86380245698854;54;55
+female;group C;bachelor's degree;standard;none;95,12312577462683;69;75
+male;group C;high school;standard;none;96,01817047799727;70;65
+female;group D;master's degree;standard;none;58,03986501804682;70;75
+female;group D;some college;standard;none;92,69404714744459;74;74
+female;group B;some college;standard;none;82,12574207152915;65;61
+female;group E;master's degree;free/reduced;none;94,50969297824861;72;65
+male;group D;some college;standard;none;71,80133999674389;42;38
+male;group E;some college;standard;none;59,884996931767176;87;82
+male;group E;associate's degree;standard;completed;79,95136708826658;81;79
+female;group D;associate's degree;standard;none;73,12310460809265;81;83
+female;group D;some high school;free/reduced;none;95,70537801043;64;59
+female;group D;associate's degree;free/reduced;completed;83,23351796241238;90;88
+male;group B;associate's degree;free/reduced;none;68,497869697927;56;57
+male;group C;associate's degree;free/reduced;none;76,65434143683717;61;54
+female;group C;associate's degree;standard;none;65,99102031561594;73;68
+female;group B;associate's degree;standard;none;57,88449240184013;58;65
+male;group B;some college;free/reduced;completed;94,91946989999596;65;66
+female;group E;associate's degree;free/reduced;none;74,11946000627852;56;54
+male;group B;associate's degree;standard;none;61,75965648980362;54;57
+female;group A;associate's degree;standard;completed;85,68991589591799;65;62
+female;group C;high school;standard;none;85,31153910719101;71;76
+female;group D;associate's degree;free/reduced;completed;67,78557332929469;74;76
+male;group C;high school;standard;completed;83,67105624717996;84;82
+male;group E;some college;standard;none;73,5954426031883;55;48
+male;group E;associate's degree;free/reduced;completed;83,06426301836068;69;68
+male;group C;some college;standard;none;86,62611677250044;44;42
+male;group D;high school;standard;none;73,26224865009851;78;75
+female;group C;some high school;free/reduced;completed;85,88261256236656;84;87
+female;group C;high school;free/reduced;none;56,749062222417976;41;43
+female;group E;associate's degree;standard;completed;94,95842393042577;85;86
+male;group D;associate's degree;standard;none;97,91001635666842;55;49
+male;group D;some college;standard;completed;78,87513288103511;59;58
+female;group C;some high school;free/reduced;none;83,80304358933472;17;10
+male;group E;bachelor's degree;free/reduced;completed;95,1996369681934;74;72
+male;group A;some high school;free/reduced;none;79,12419264555635;39;34
+male;group A;associate's degree;free/reduced;none;56,587032409626325;61;55
+female;group C;associate's degree;standard;none;87,79149180172035;80;71
+female;group D;some high school;standard;none;77,9016789547328;58;59
+male;group B;some high school;standard;none;86,42328659675479;64;61
+male;group D;some high school;free/reduced;none;85,78302920540712;37;37
+female;group C;some college;standard;none;93,92547700370228;72;74
+male;group B;associate's degree;free/reduced;none;72,3311795198961;58;56
+female;group C;associate's degree;standard;none;95,88084757310968;64;57
+female;group D;some college;free/reduced;completed;97,3367252433724;63;73
+male;group D;some college;standard;completed;80,41350402035229;55;63
+female;group A;associate's degree;free/reduced;none;70,42463825516518;51;48
+male;group C;some high school;free/reduced;none;84,12151472136605;57;56
+male;group C;some high school;standard;none;91,69633415833366;49;41
+male;group B;associate's degree;free/reduced;none;88,44356761332739;41;38
+male;group E;some high school;standard;none;73,82092173264692;26;22
+male;group A;bachelor's degree;standard;completed;61,18110816533843;78;81
+female;group D;some high school;standard;completed;55,950069493776176;74;72
+female;group E;master's degree;standard;none;87,26485618870882;68;68
+female;group B;associate's degree;standard;none;93,5445910143884;49;50
+male;group B;high school;free/reduced;none;91,77735278352588;45;45
+male;group A;some college;free/reduced;completed;71,81442109362109;47;54
+male;group E;associate's degree;standard;none;86,07862434304916;64;63
+male;group D;high school;free/reduced;none;58,2807682959181;39;34
+female;group C;some college;standard;none;76,39502729172204;80;82
+female;group C;some college;free/reduced;none;91,41029229178474;83;88
+female;group D;associate's degree;standard;none;98,44950366011648;71;74
+female;group A;some college;standard;none;81,66815771260906;70;67
+female;group D;some high school;standard;none;57,180229374412725;86;82
+female;group C;bachelor's degree;standard;none;65,62465060850879;72;74
+male;group C;high school;free/reduced;none;62,396698895570644;34;36
+male;group C;high school;standard;none;79,81315411995726;79;71
+male;group C;associate's degree;free/reduced;completed;87,43636481491222;45;50
+female;group B;some college;standard;none;80,63335149241678;86;92
+male;group C;associate's degree;free/reduced;completed;56,604845737709866;81;82
+male;group B;some high school;standard;completed;82,8585529530171;66;62
+female;group E;some college;standard;completed;77,76184531049333;72;70
+female;group D;some college;free/reduced;none;66,7732814092663;67;62
+female;group D;bachelor's degree;standard;none;73,67651353112191;67;62
+male;group B;some college;standard;none;75,48636883895782;67;67
+male;group D;bachelor's degree;standard;completed;91,5399536863617;74;74
+female;group D;associate's degree;standard;none;77,35927350004891;91;89
+male;group B;high school;standard;completed;66,9914834690373;44;47
+male;group C;some college;standard;completed;56,17967933365012;86;90
+female;group C;some college;standard;none;95,01609151708861;67;72
+female;group D;master's degree;standard;none;97,05082805609632;100;100
+male;group E;associate's degree;standard;completed;87,75975119128216;63;64
+female;group B;associate's degree;free/reduced;none;92,84247342733397;76;70
+female;group B;some high school;standard;none;80,88336439868633;64;72
+female;group D;associate's degree;free/reduced;completed;69,33838089998524;89;98
+male;group C;high school;standard;none;73,45230730158791;55;49
+male;group A;associate's degree;standard;none;74,0739961684036;53;47
+female;group D;some college;standard;none;71,75383860412563;58;54
+female;group E;bachelor's degree;standard;completed;62,33741193771388;100;100
+male;group C;high school;standard;none;71,7430568019236;77;74
+female;group B;bachelor's degree;free/reduced;none;71,48244051830738;85;82
+female;group D;bachelor's degree;standard;none;81,37906364944212;82;79
+female;group D;some high school;standard;none;91,28058141428076;63;61
+female;group C;some college;standard;none;66,27243545841316;69;65
+female;group C;bachelor's degree;standard;completed;69,2791893142638;92;89
+male;group B;associate's degree;standard;completed;95,65743260392028;89;92
+female;group C;some college;standard;completed;61,98939502308035;93;93
+male;group D;high school;free/reduced;none;89,32745502280258;57;56
+male;group E;some college;standard;none;93,24892343872557;80;73
+female;group B;high school;standard;none;62,33388533971261;95;86
+male;group B;some high school;standard;none;57,49372217296178;68;67
+male;group D;some college;standard;completed;82,64367051551828;77;74
+male;group D;master's degree;standard;none;82,57710143456816;82;74
+female;group A;bachelor's degree;standard;none;96,33553853502409;49;51
+male;group D;master's degree;standard;none;59,21631605059752;84;82
+male;group C;some high school;free/reduced;completed;79,84601299593521;37;40
+male;group E;some college;free/reduced;completed;59,759629244746435;74;70
+female;group C;some college;standard;completed;60,95639604847453;81;84
+male;group D;bachelor's degree;free/reduced;completed;80,85684919309833;79;75
+male;group C;bachelor's degree;standard;none;87,92872542345947;55;48
+male;group B;some high school;standard;completed;57,456212757447375;54;41
+male;group E;high school;standard;none;95,18422615832424;55;56
+female;group C;associate's degree;standard;none;75,68581478907447;66;67
+male;group D;some college;standard;completed;97,63879327813788;61;69
+female;group D;some high school;standard;none;66,78618509298133;72;71
+female;group C;some college;free/reduced;none;71,67287022715381;62;64
+female;group E;some college;free/reduced;completed;81,52675093579138;55;54
+male;group A;high school;standard;none;66,3892835458001;43;47
+male;group D;some college;standard;none;60,33144953697705;73;78
+female;group C;some college;free/reduced;none;86,95850951972508;39;33
+male;group B;some high school;standard;none;95,01279675472915;84;75
+male;group C;associate's degree;free/reduced;none;89,41252774327077;68;66
+female;group D;bachelor's degree;standard;completed;71,29513657792636;75;81
+male;group E;associate's degree;free/reduced;completed;65,1983500032529;100;93
+male;group A;some high school;standard;completed;97,58439988795746;67;69
+male;group A;bachelor's degree;standard;none;59,030971923562895;67;68
+female;group B;associate's degree;standard;completed;57,89553474339364;70;66
+male;group D;bachelor's degree;standard;none;60,7799769776441;49;47
+male;group D;some high school;standard;none;69,37229098324646;67;61
+female;group C;some college;standard;completed;95,26464016705329;89;88
+female;group E;high school;free/reduced;completed;62,08613857719469;74;78
+male;group B;some college;free/reduced;none;65,8830100250318;60;60
+female;group B;associate's degree;standard;completed;77,21385798163007;86;87
+male;group D;associate's degree;free/reduced;none;67,0142085393174;62;64
+male;group B;associate's degree;free/reduced;completed;65,38580679133224;78;74
+female;group E;some college;free/reduced;completed;58,205834743499416;88;85
+male;group B;master's degree;free/reduced;none;63,204614130370224;53;52
+male;group C;high school;standard;none;58,262048524435215;53;49
+female;group E;master's degree;standard;none;58,18215112203326;92;91
+female;group C;bachelor's degree;standard;completed;79,32795203453962;100;100
+male;group C;high school;free/reduced;completed;87,38569807609898;51;51
+female;group B;master's degree;free/reduced;completed;97,64076108178976;76;78
+female;group B;high school;standard;completed;73,71898018582627;83;78
+female;group C;some college;free/reduced;completed;81,86546482113583;75;70
+male;group A;high school;standard;completed;70,25756423453785;73;74
+male;group E;some high school;standard;none;86,57811005293235;88;78
+female;group D;some college;standard;none;73,09394604005249;86;81
+female;group C;associate's degree;standard;none;66,66491639817352;67;70
+female;group C;bachelor's degree;free/reduced;completed;94,32309642378704;51;54
+female;group C;master's degree;standard;completed;81,3761606418363;91;87
+female;group B;high school;free/reduced;completed;97,22194197120075;54;58
+female;group C;associate's degree;standard;completed;89,621665055104;77;77
+female;group B;master's degree;free/reduced;completed;83,55018890312006;70;62
+female;group D;some high school;standard;completed;76,23669386187434;100;100
+male;group C;master's degree;free/reduced;completed;76,77234718292513;68;75
+female;group C;some college;free/reduced;none;98,13627958925844;64;66
+female;group E;high school;standard;none;70,4131517118859;50;47
+female;group D;associate's degree;standard;none;77,8851512415005;69;70
+male;group C;some high school;free/reduced;completed;63,002910893543785;52;49
+male;group C;associate's degree;free/reduced;completed;95,03587086212735;67;65
+male;group E;high school;standard;none;62,20083949397939;76;65
+male;group D;some high school;standard;completed;81,07609036600125;66;68
+male;group B;some high school;free/reduced;none;64,14903655379887;52;45
+female;group C;bachelor's degree;standard;none;72,71613535376974;88;87
+female;group E;associate's degree;standard;none;59,01511628128337;65;69
+male;group D;some college;standard;completed;77,4190460143984;83;79
+female;group B;some high school;standard;none;63,24670157326352;64;66
+male;group D;some college;standard;completed;77,35596543066863;62;62
+female;group C;master's degree;standard;completed;89,67466327064456;84;85
+male;group D;associate's degree;standard;none;69,66295475529179;55;52
+male;group C;some high school;free/reduced;completed;77,15472626020441;69;65
+male;group E;high school;free/reduced;none;66,24791308557025;56;51
+female;group B;some college;free/reduced;none;73,84822540019401;53;55
+female;group B;bachelor's degree;free/reduced;none;62,39956687474491;79;76
+female;group C;associate's degree;standard;completed;60,36008040762991;84;86
+female;group D;some college;free/reduced;none;98,66432829901868;81;77
+male;group C;associate's degree;standard;none;76,10489087235035;77;69
+female;group B;associate's degree;standard;none;69,32652455376778;69;68
+male;group C;some college;standard;none;82,63068614869964;41;42
+male;group D;some high school;standard;completed;82,22189237161878;71;78
+male;group E;bachelor's degree;standard;none;92,3391360270748;62;62
+male;group E;high school;standard;completed;63,66524494566278;80;76
+female;group B;some college;free/reduced;none;74,91217317821634;81;76
+female;group B;some college;free/reduced;none;60,30077510573712;61;66
+male;group D;some high school;free/reduced;completed;71,25710708428183;79;79
+male;group C;some college;free/reduced;none;91,70357131871235;28;27
+female;group C;high school;free/reduced;none;63,40980969718049;62;60
+male;group C;associate's degree;free/reduced;completed;65,56033880020978;51;56
+male;group E;high school;standard;completed;62,522677684653274;91;81
+male;group B;some high school;standard;completed;62,16764008660202;83;75
+female;group E;associate's degree;free/reduced;completed;72,02304580949118;86;88
+female;group C;high school;free/reduced;none;65,91489351716501;42;39
+male;group B;high school;free/reduced;none;87,60712772133635;77;70
+male;group B;some high school;standard;completed;84,00633738233842;56;56
+female;group D;high school;standard;completed;92,78468895695406;68;74
+male;group B;associate's degree;standard;none;62,820502292587264;85;73
+female;group C;some high school;free/reduced;none;77,70710577636245;65;62
+male;group D;some high school;standard;none;73,95319010127227;80;75
+female;group B;associate's degree;standard;completed;76,3218428358272;66;73
+female;group E;master's degree;free/reduced;none;55,35099283660385;56;54
+female;group C;some college;standard;none;57,41592117814541;72;71
+male;group D;high school;standard;none;59,76922865893383;50;54
+male;group A;some high school;free/reduced;none;58,98462103696825;72;64
+female;group C;some college;standard;completed;56,908865139471146;95;94
+male;group D;some college;standard;none;89,21799691238598;64;66
+male;group C;associate's degree;standard;none;86,48182459417593;43;42
+female;group B;bachelor's degree;standard;none;92,85797524937142;86;83
+male;group E;some high school;standard;none;68,61148107802548;87;78
+male;group C;bachelor's degree;standard;completed;98,76373099215695;82;84
+male;group D;associate's degree;standard;none;64,1069880250028;75;77
+male;group D;bachelor's degree;free/reduced;none;82,46241389499845;66;67
+female;group D;some high school;standard;completed;69,40315978770981;60;74
+male;group B;some college;standard;none;86,16325482205582;52;51
+male;group C;associate's degree;standard;none;64,38557397881411;80;80
+male;group D;high school;free/reduced;completed;88,37775079597745;68;66
+female;group E;bachelor's degree;standard;none;97,84317985454567;83;83
+female;group D;high school;standard;none;98,26501408248356;52;55
+male;group E;some college;standard;none;64,38148475902622;51;43
+male;group D;some high school;standard;none;79,5518663991712;74;69
+male;group C;associate's degree;standard;none;96,35465259826526;76;71
+male;group E;associate's degree;standard;none;89,35554986012997;76;74
+female;group B;high school;standard;completed;92,97684521139288;70;68
+female;group B;high school;standard;none;90,31823392156484;64;62
+male;group C;high school;standard;none;84,45552886330672;60;53
+male;group A;some high school;standard;completed;58,696304632159055;49;49
+female;group D;some college;free/reduced;none;62,853066056678834;83;83
+female;group B;some high school;standard;completed;61,8641260894458;70;70
+male;group D;master's degree;standard;none;56,286743419546326;80;72
+male;group D;high school;standard;none;78,01931213693938;52;52
+female;group E;some college;standard;none;82,08548619653911;73;70
+female;group C;associate's degree;free/reduced;none;65,82148149721435;73;68
+male;group C;associate's degree;standard;completed;73,66515060783556;77;77
+female;group B;some college;standard;none;82,49026523143792;75;78
+female;group C;master's degree;free/reduced;completed;96,00386617083304;81;81
+female;group C;some high school;free/reduced;completed;97,48079801668487;79;77
+male;group C;some college;standard;completed;67,16814463531338;79;78
+female;group C;some high school;free/reduced;none;71,4489975865087;50;51
+female;group E;high school;standard;none;65,43278880926614;93;90
+male;group D;high school;standard;none;72,27735603616199;73;68
+male;group D;some high school;free/reduced;none;84,74239090478531;42;41
+female;group C;bachelor's degree;standard;none;96,87686713776634;75;81
+female;group D;high school;standard;none;90,96676982076485;72;77
+female;group D;associate's degree;standard;completed;70,64772775296954;92;95
+female;group E;some college;free/reduced;none;62,48913836752808;76;70
+male;group C;bachelor's degree;standard;none;79,2067703417392;63;61
+male;group C;some college;standard;none;75,90544378612641;49;42
+female;group D;associate's degree;free/reduced;none;85,50786119396481;53;58
+female;group D;some college;standard;none;76,66187146570311;70;71
+male;group B;some college;standard;completed;98,95485343125858;85;76
+male;group C;bachelor's degree;standard;none;79,49194367956257;78;73
+female;group C;some high school;standard;completed;90,15134946264479;92;93
+female;group E;high school;standard;completed;94,96848501984026;63;75
+female;group C;some high school;free/reduced;none;59,8406027591044;86;80
+male;group B;bachelor's degree;free/reduced;none;72,2707357241129;56;57
+male;group D;high school;standard;none;83,5228982852949;52;42
+male;group D;high school;standard;none;81,25276575022876;48;46
+female;group D;bachelor's degree;free/reduced;none;75,73974179212814;79;84
+female;group D;some college;free/reduced;completed;83,25267056382457;78;78
+female;group B;some high school;standard;none;65,0421304736962;46;46
+male;group B;associate's degree;standard;completed;86,62766112733695;82;82
+male;group E;associate's degree;standard;completed;85,61954244640543;82;88
+female;group B;some high school;standard;none;70,53146830871805;89;82
+male;group B;bachelor's degree;free/reduced;none;89,13790037520914;75;76
+male;group E;some high school;standard;completed;95,24643716147438;76;77
+male;group C;associate's degree;standard;none;93,37834086583946;70;68
+male;group D;some high school;standard;none;65,78719236493016;73;70
+male;group C;some high school;standard;completed;81,44389599241268;60;57
+female;group E;bachelor's degree;standard;none;84,0588648437532;73;75
+male;group D;high school;free/reduced;completed;63,31276428450768;77;80
+male;group B;associate's degree;free/reduced;none;91,03198956004371;62;60
+male;group A;some high school;standard;completed;96,2373588135739;41;43
+male;group E;associate's degree;standard;completed;95,20917004416842;74;68
+male;group C;high school;free/reduced;completed;68,0331882721818;46;50
+male;group D;associate's degree;free/reduced;none;56,410585165967376;87;75
+male;group A;some college;free/reduced;completed;67,13382518532188;78;81
+male;group D;some high school;free/reduced;none;62,35766063924633;54;52
+female;group C;associate's degree;standard;completed;68,82149010369685;84;81
+male;group B;associate's degree;standard;none;67,7142820495838;76;64
+female;group C;associate's degree;standard;completed;94,42275206164982;75;83
+male;group A;some college;standard;none;78,38010899885326;67;69
+male;group E;some college;standard;completed;74,29439611558226;87;81
+male;group C;some high school;standard;none;94,71317698565116;52;44
+female;group B;associate's degree;free/reduced;none;91,90665302292231;71;67
+female;group D;high school;free/reduced;none;88,07483675194362;57;52
+female;group B;associate's degree;standard;none;90,16353189706955;76;80
+male;group B;bachelor's degree;standard;none;68,93080068416921;60;57
+male;group D;bachelor's degree;standard;completed;88,84050365807605;61;68
+female;group C;associate's degree;free/reduced;completed;95,48387344692193;67;69
+female;group C;bachelor's degree;standard;completed;88,43095333690536;64;75
+male;group C;high school;standard;none;68,33680604542143;66;65
+female;group D;master's degree;standard;completed;93,40557058206363;82;91
+male;group C;associate's degree;standard;none;91,15285000903762;72;78
+male;group B;bachelor's degree;standard;none;91,88040835764977;71;69
+female;group D;associate's degree;free/reduced;none;78,8632683704214;65;63
+female;group C;high school;free/reduced;completed;95,51075572458282;79;84
+female;group E;high school;standard;none;98,99508222152099;86;79
+female;group C;some college;standard;none;97,72074505583619;81;80
+female;group C;some high school;free/reduced;none;85,13541246239437;53;53
+female;group C;high school;free/reduced;none;60,15418227785987;46;43
+female;group C;some college;standard;none;60,880274225963824;90;94
+male;group C;some college;standard;none;84,3264018272843;61;62
+male;group A;some college;free/reduced;none;75,84988525082676;23;19
+male;group C;associate's degree;standard;completed;56,24032425903661;75;77
+female;group B;some high school;standard;none;92,5360254627762;55;51
+male;group C;high school;standard;none;79,92564245755887;60;61
+male;group C;associate's degree;standard;none;62,29675869994252;37;35
+male;group E;associate's degree;standard;completed;63,738337190245474;56;53
+male;group B;associate's degree;standard;none;97,66020074457967;78;81
+female;group C;bachelor's degree;standard;none;60,661491727429684;93;95
+female;group B;some college;free/reduced;none;95,179970107286;68;66
+male;group D;some high school;standard;completed;83,55880140186801;70;69
+male;group C;associate's degree;standard;none;63,01020732702766;51;43
+female;group B;some high school;free/reduced;none;68,03854064724717;38;27
+female;group D;some high school;free/reduced;completed;98,319722115887;55;60
+male;group C;high school;free/reduced;none;80,34024435405816;61;52
+female;group C;high school;standard;none;88,55244636119265;73;63
+female;group B;high school;standard;completed;78,5801854716753;76;74
+male;group D;associate's degree;standard;completed;66,60071234531986;72;67
+male;group D;some college;standard;none;70,9901796170869;73;67
+female;group C;high school;standard;none;87,00383802305788;80;75
+male;group B;some college;standard;none;78,88139333660496;61;57
+female;group C;bachelor's degree;standard;completed;76,380864948041;94;95
+male;group D;high school;free/reduced;none;83,58927093709991;74;66
+male;group E;associate's degree;standard;none;82,67984998098086;74;76
+female;group B;bachelor's degree;standard;none;82,62277614546551;65;69
+male;group E;some college;standard;none;60,27668492056576;57;52
+female;group C;some college;standard;completed;97,91946702220923;78;80
+female;group C;associate's degree;standard;none;58,563847306315715;58;57
+female;group C;some college;standard;none;94,58586937120648;71;70
+female;group B;bachelor's degree;standard;none;98,60700070990244;72;70
+male;group A;associate's degree;standard;none;92,79321506721863;61;61
+female;group C;some college;free/reduced;completed;64,81158871997744;66;69
+male;group D;some college;free/reduced;none;90,38039976882632;62;61
+female;group D;some college;standard;none;98,07561863085553;90;89
+female;group B;high school;standard;none;73,76350276710089;62;59
+male;group B;some high school;standard;completed;75,95831105463935;84;78
+female;group C;some college;standard;none;78,74875614608996;58;58
+female;group D;some high school;free/reduced;none;66,34556302320131;34;32
+male;group C;some college;standard;none;80,1297240849823;60;58
+male;group A;bachelor's degree;free/reduced;completed;95,04536619805845;58;60
+male;group C;high school;standard;completed;86,86757642998556;58;53
+male;group C;bachelor's degree;free/reduced;none;67,26592119756968;66;61
+female;group A;some high school;free/reduced;none;89,93393543587575;64;58
+female;group D;some high school;standard;none;80,76328394639862;84;85
+male;group E;some college;standard;none;83,31496177279277;77;71
+female;group C;some college;free/reduced;completed;60,588008381972955;73;70
+male;group D;some high school;standard;none;61,07717437451122;74;72
+female;group D;some college;standard;completed;74,3598680535375;97;96
+female;group D;bachelor's degree;standard;none;95,16433181047464;70;73
+male;group E;associate's degree;free/reduced;none;73,12371925006605;43;41
+female;group D;some high school;standard;none;92,22457172276903;90;82
+female;group D;master's degree;free/reduced;completed;68,6745380693738;95;100
+female;group A;some high school;standard;none;55,44210854842072;83;77
+male;group A;bachelor's degree;standard;none;60,163683877096695;64;62
+female;group B;associate's degree;standard;none;63,48107689047808;86;83
+male;group C;associate's degree;standard;completed;72,74656899211229;100;95
+male;group C;master's degree;free/reduced;none;67,78697696569748;81;71
+female;group E;some high school;free/reduced;none;94,15865889578379;49;45
+female;group A;some high school;free/reduced;none;95,24754511327933;43;43
+female;group E;some college;standard;none;85,91558493331883;76;75
+female;group E;bachelor's degree;standard;none;71,00661943418118;73;70
+female;group C;associate's degree;free/reduced;none;69,99207110204176;78;67
+female;group D;high school;standard;none;68,17476104590708;64;64
+male;group D;master's degree;standard;none;86,77435826956616;70;75
+male;group E;some high school;free/reduced;completed;80,53698827075392;67;59
+female;group D;some college;standard;none;63,61457135314505;68;77
+male;group E;some college;standard;none;68,0513963992211;67;67
+male;group C;associate's degree;standard;completed;55,89504577184444;54;56
+female;group C;some high school;standard;completed;88,65433564001582;74;77
+male;group A;high school;free/reduced;none;72,83169291188014;45;41
+female;group B;high school;free/reduced;none;77,44621474213164;67;63
+female;group C;associate's degree;standard;none;64,39094584057526;89;95
+male;group B;some high school;standard;none;82,9908780076162;63;57
+male;group D;some high school;standard;none;74,96909880099588;59;54
+female;group C;some high school;standard;completed;86,18616932582404;54;67
+male;group A;some college;standard;none;75,81178815525095;43;43
+female;group A;some college;free/reduced;none;86,47316510003407;65;55
+female;group D;high school;standard;completed;69,45505911300711;99;100
+female;group C;high school;standard;none;73,5320739842934;59;62
+female;group C;some high school;standard;none;85,72454714478184;73;68
+male;group B;associate's degree;standard;completed;74,97952406295391;65;63
+female;group B;associate's degree;standard;none;95,49899840591885;80;77
+female;group D;high school;free/reduced;completed;96,23588142048087;57;56
+male;group D;associate's degree;standard;completed;81,39325238334584;84;85
+female;group D;master's degree;standard;completed;90,34562980655286;71;74
+male;group E;some college;standard;completed;56,008439181299444;83;78
+male;group D;associate's degree;standard;none;66,30373970673216;66;60
+male;group B;some high school;standard;completed;84,04963619060396;67;67
+female;group C;bachelor's degree;free/reduced;completed;77,71224058260593;72;79
+male;group E;high school;standard;none;81,84048976017908;73;69
+male;group C;bachelor's degree;standard;completed;76,73064523035552;74;68
+male;group C;associate's degree;standard;none;55,5780294944631;73;67
+male;group D;some college;standard;none;65,53175579513453;59;62
+male;group E;high school;free/reduced;completed;96,24926325444866;56;54
+female;group C;associate's degree;free/reduced;completed;55,475610979053315;93;93
+female;group D;high school;standard;completed;89,82222390955613;58;64
+female;group D;master's degree;free/reduced;completed;85,53316988129808;58;67
+female;group A;some high school;standard;completed;73,53065798363112;85;80
+male;group B;some college;free/reduced;none;77,93291786824783;39;34
+female;group C;some college;free/reduced;none;70,26424670148435;67;62
+male;group C;bachelor's degree;standard;none;78,86299896137936;83;86
+male;group C;some high school;free/reduced;none;92,9203476292227;71;65
+male;group A;some high school;free/reduced;none;90,0997212770695;59;53
+male;group C;some high school;free/reduced;none;78,97222468310075;63;54
+male;group C;associate's degree;free/reduced;none;68,19463128119901;66;59
+female;group C;high school;standard;none;70,3966557244301;72;70
+male;group C;high school;standard;none;66,77494900722536;56;55
+female;group A;some high school;free/reduced;none;72,30140102749593;59;50
+male;group C;some high school;standard;none;55,565294169761756;66;66
+male;group C;some college;free/reduced;completed;86,30304946458064;48;53
+male;group D;associate's degree;standard;none;58,71659987710054;68;64
+male;group D;associate's degree;free/reduced;none;85,93932964382097;66;73
+male;group C;high school;standard;none;83,03904550706443;56;51
+male;group D;some high school;standard;completed;94,39355767067852;88;82
+female;group C;some college;standard;completed;82,87012036478657;81;79
+female;group D;high school;standard;none;61,14193344971065;81;80
+female;group A;some high school;free/reduced;none;65,83644213644418;73;69
+female;group B;associate's degree;standard;none;74,04155363706437;83;76
+male;group A;some high school;free/reduced;none;86,95640908293605;82;73
+female;group C;some high school;standard;completed;56,42643151274706;74;77
+male;group D;some college;free/reduced;none;80,62911325011422;66;60
+male;group C;high school;standard;completed;95,29919666096735;81;80
+male;group B;high school;standard;none;83,99196781272289;46;42
+male;group B;associate's degree;standard;none;69,67296000358414;73;72
+female;group C;some college;free/reduced;completed;70,14933901227744;85;85
+female;group E;some college;standard;none;68,66615385389697;92;97
+female;group C;associate's degree;free/reduced;none;86,1955894473814;77;74
+male;group C;some college;free/reduced;none;55,27343389702333;58;49
+female;group C;associate's degree;free/reduced;none;74,27829592042266;61;62
+male;group C;bachelor's degree;free/reduced;none;90,70388729034636;56;47
+female;group D;bachelor's degree;standard;none;87,23912966796378;89;89
+male;group D;associate's degree;free/reduced;none;82,21913898749473;54;48
+female;group E;bachelor's degree;standard;none;64,74640859882653;100;100
+male;group B;high school;standard;completed;64,11118389261121;65;68
+male;group C;bachelor's degree;free/reduced;none;57,699345166422425;58;55
+male;group B;some college;free/reduced;none;80,87974694387901;54;45
+female;group E;some college;standard;none;55,205990073887236;70;76
+female;group C;some college;free/reduced;none;59,96783715226632;90;91
+male;group A;bachelor's degree;standard;completed;62,09617793975185;58;62
+female;group C;some college;standard;none;82,11998056399361;87;91
+female;group D;associate's degree;free/reduced;none;89,13841920006632;31;38
+male;group A;high school;free/reduced;completed;82,68361648025561;67;65
+female;group A;high school;free/reduced;completed;77,2182084075713;88;85
+male;group C;some college;standard;none;83,92411166136773;74;76
+female;group C;associate's degree;standard;completed;88,82386710038504;85;90
+female;group C;high school;standard;none;59,44355165905873;69;74
+female;group C;associate's degree;standard;completed;61,652758864887545;86;84
+female;group D;some high school;standard;none;55,841464851676854;67;61
+female;group B;associate's degree;standard;completed;65,1697176194442;90;91
+female;group D;bachelor's degree;standard;completed;72,35043873967086;76;83
+male;group E;bachelor's degree;standard;completed;57,275261027831526;62;66
+male;group D;associate's degree;standard;none;84,5719658022955;68;72
+female;group D;master's degree;standard;none;57,90846424280665;64;70
+male;group E;associate's degree;standard;none;65,13678894674976;71;67
+male;group B;high school;standard;completed;98,60278488934054;71;68
+female;group D;associate's degree;free/reduced;none;55,78968045263036;59;56
+male;group C;some college;free/reduced;none;80,8681505134712;68;61
+male;group A;high school;standard;none;83,0417395654678;52;46
+female;group B;associate's degree;standard;none;74,24995696549833;52;54
+male;group C;high school;standard;none;98,84933140056079;74;71
+male;group D;some college;free/reduced;none;90,47892404453003;47;56
+female;group C;associate's degree;free/reduced;none;75,37397808182708;75;74
+male;group B;some high school;standard;completed;98,094536063164;53;57
+male;group A;associate's degree;free/reduced;completed;81,9298023217357;82;82
+female;group A;associate's degree;free/reduced;none;60,326427206795024;85;76
+female;group C;associate's degree;standard;none;60,5010082558963;64;70
+female;group C;some college;standard;none;72,38319113214979;83;90
+female;group C;bachelor's degree;standard;none;61,831584040323;88;90
+female;group B;high school;standard;none;75,76369017847736;64;68
+male;group D;high school;standard;completed;88,08489840201072;64;66
+female;group C;some college;standard;none;58,86701955709792;48;52
+female;group D;some college;free/reduced;completed;97,25248539074744;78;76
+female;group B;some high school;standard;none;79,39640623956149;69;68
+male;group E;some college;standard;none;76,18494371679078;71;72
+female;group D;master's degree;standard;none;58,33723188725473;79;82
+female;group B;associate's degree;standard;completed;62,41524975250218;87;92
+male;group C;some college;free/reduced;none;93,32995083856969;61;54
+female;group E;associate's degree;standard;completed;68,78392907870003;89;92
+female;group D;master's degree;free/reduced;none;68,9222144404462;59;54
+female;group B;some high school;standard;none;79,96406793459221;82;80
+male;group A;high school;standard;none;77,95740476115432;70;66
+male;group B;bachelor's degree;free/reduced;none;85,4641681431522;59;54
+male;group C;master's degree;standard;none;92,31374732422441;78;77
+female;group C;bachelor's degree;standard;none;58,47785335586336;92;87
+male;group D;some college;standard;none;58,44686822733397;71;73
+male;group A;some high school;standard;none;79,65115026389506;50;43
+male;group D;some high school;free/reduced;none;88,65600654317859;49;52
+female;group B;some high school;standard;completed;73,38727337615782;61;62
+female;group B;master's degree;free/reduced;completed;82,2974761634212;97;94
+female;group C;some high school;standard;completed;71,41025533411636;87;85
+female;group D;some college;standard;none;62,62001205534143;89;84
+female;group E;some college;standard;completed;88,98191172251988;74;73
+female;group D;some high school;standard;completed;56,915109194611546;78;78
+female;group B;high school;free/reduced;completed;78,74957070093572;78;79
+male;group D;some college;standard;none;72,11172705972885;49;52
+female;group C;associate's degree;standard;none;88,96581885421597;86;84
+male;group D;bachelor's degree;standard;none;89,34323555500615;58;57
+male;group C;master's degree;free/reduced;none;90,0258031556632;59;50
+male;group C;high school;standard;completed;82,11612020730189;52;49
+male;group E;some college;standard;none;57,66559332502498;60;59
+male;group C;some high school;free/reduced;completed;68,82348189713927;61;60
+female;group C;high school;free/reduced;none;86,41339249785273;53;43
+female;group D;bachelor's degree;free/reduced;none;78,098500898559;41;47
+female;group C;associate's degree;standard;none;76,36866401120965;74;70
+female;group C;associate's degree;standard;completed;68,26374590314485;67;73
+female;group C;some high school;standard;none;64,58651414700101;54;53
+male;group E;associate's degree;standard;completed;75,75571012466776;61;58
+female;group E;associate's degree;standard;completed;93,71862125358199;88;94
+male;group B;high school;standard;completed;95,55222200128514;69;68
+female;group C;bachelor's degree;free/reduced;completed;67,1956686903151;83;83
+male;group C;associate's degree;standard;completed;90,35715759810024;60;58
+female;group D;high school;standard;none;81,03060078218371;66;62
+male;group E;bachelor's degree;standard;completed;56,269185094320086;66;71
+male;group A;associate's degree;standard;completed;55,50438224153729;92;86
+male;group C;high school;standard;completed;94,66405273029442;69;68
+male;group D;associate's degree;free/reduced;completed;58,35982534825641;82;80
+female;group C;associate's degree;standard;none;81,62100880537567;77;79
+female;group D;associate's degree;standard;none;89,77032330349421;95;89
+female;group D;master's degree;standard;none;95,02122237144481;63;66
+male;group E;some high school;free/reduced;completed;83,68466921449607;83;80
+female;group A;some high school;standard;completed;60,78408184665865;100;97
+male;group C;high school;standard;completed;56,4006396846447;67;64
+female;group C;high school;free/reduced;none;98,37843890608846;67;64
+male;group C;master's degree;standard;none;96,0541251010203;72;69
+male;group C;some high school;free/reduced;none;57,15226982965578;76;65
+male;group B;bachelor's degree;free/reduced;completed;73,21244221912636;90;88
+female;group B;associate's degree;standard;none;74,38457675954591;48;50
+male;group D;some college;free/reduced;none;75,71604729468271;62;64
+male;group E;associate's degree;standard;none;74,75640102854226;45;40
+female;group C;some college;free/reduced;none;71,0591416876962;39;33
+female;group C;associate's degree;standard;completed;93,37284876554;72;79
+male;group C;master's degree;free/reduced;none;94,90769979474928;67;66
+female;group B;associate's degree;free/reduced;none;64,13913956818914;70;70
+male;group D;some high school;standard;none;88,03760881385344;66;62
+female;group D;some college;standard;completed;92,67598689720847;75;79
+female;group C;some college;standard;none;74,33719401547629;74;74
+male;group C;bachelor's degree;standard;completed;96,52352366683434;90;92
+female;group D;some college;free/reduced;completed;71,39381245309241;80;80
+male;group B;bachelor's degree;free/reduced;none;62,61365698259211;51;46
+male;group B;associate's degree;standard;none;59,82759208449876;43;45
+female;group E;bachelor's degree;free/reduced;completed;92,25598265158546;100;100
+female;group D;master's degree;free/reduced;completed;81,88126569891548;71;78
+male;group B;high school;free/reduced;none;89,69049793517803;48;47
+male;group D;bachelor's degree;free/reduced;none;63,10530859227325;68;67
+male;group B;some college;standard;completed;94,35830647689201;75;70
+male;group A;bachelor's degree;standard;none;65,25204575498985;96;92
+female;group C;some college;standard;none;93,60907078345011;62;56
+female;group C;high school;free/reduced;completed;91,74082534296203;66;64
+female;group E;high school;standard;none;92,70597264444112;81;71
+male;group A;associate's degree;free/reduced;completed;62,30550468852301;55;53
+male;group A;some college;standard;completed;56,945986614107944;51;52
+female;group B;high school;standard;none;68,89150781652046;91;89
+female;group B;some college;free/reduced;completed;72,01392752868719;56;58
+female;group D;master's degree;standard;none;86,57768904229064;61;68
+female;group D;some high school;standard;none;66,74669005753339;97;96
+female;group E;some high school;standard;none;58,59449625730384;79;80
+female;group D;bachelor's degree;free/reduced;none;67,24477614154233;73;78
+female;group D;associate's degree;standard;completed;62,48251383435597;75;80
+female;group D;some college;standard;none;89,80475877476081;77;77
+female;group C;associate's degree;standard;none;65,9297670801402;76;76
+female;group A;high school;standard;none;78,71600323715984;73;73
+female;group C;bachelor's degree;free/reduced;none;58,87212895306131;63;62
+female;group C;some college;standard;none;92,3538774146607;64;65
+female;group A;some high school;standard;none;67,16431676780104;66;65
+male;group C;some college;free/reduced;none;94,9211464298549;57;54
+male;group A;some high school;standard;none;65,27508325339312;62;50
+male;group E;bachelor's degree;standard;none;61,4280888098122;68;64
+female;group E;high school;standard;none;86,7540161605654;76;73
+female;group C;bachelor's degree;standard;completed;95,78067178732265;100;99
+female;group C;bachelor's degree;standard;completed;89,29978383864938;79;72
+male;group B;high school;free/reduced;none;63,415874144252555;24;15
+male;group A;some high school;standard;none;76,38524083264342;54;48
+female;group D;high school;standard;none;65,6453282920024;77;73
+female;group D;some high school;standard;none;94,95083121728317;82;81
+female;group D;master's degree;standard;none;95,08488712696516;60;63
+female;group C;high school;standard;none;81,93941866388252;29;30
+female;group E;some college;standard;none;57,636672287260566;78;80
+male;group D;high school;free/reduced;none;83,74372037457277;57;51
+male;group D;master's degree;free/reduced;completed;79,16051642671863;89;90
+male;group C;some high school;standard;none;56,662678213091965;72;62
+female;group C;associate's degree;standard;none;82,88505827167651;84;82
+female;group C;master's degree;free/reduced;none;66,9413968215377;58;54
+female;group E;some college;standard;none;56,243443761277454;64;62
+female;group B;associate's degree;standard;none;95,23920393506143;63;65
+male;group D;some college;free/reduced;completed;91,06781969833366;60;63
+female;group C;some college;standard;none;95,5755831776265;59;66
+male;group C;bachelor's degree;standard;completed;60,49416809668496;90;91
+female;group C;associate's degree;standard;none;96,56499514015756;77;74
+female;group A;associate's degree;standard;none;72,08250279067508;93;93
+female;group C;high school;standard;none;81,0520524423935;68;72
+female;group E;bachelor's degree;standard;none;95,59554502892206;45;38
+male;group D;bachelor's degree;standard;none;66,42380343600207;78;83
+male;group D;master's degree;standard;none;64,2300639953907;81;84
+male;group C;associate's degree;free/reduced;completed;94,28331743206061;73;68
+female;group C;high school;free/reduced;none;61,38111368503313;61;54
+male;group B;bachelor's degree;free/reduced;none;80,10094727934944;63;56
+male;group C;high school;free/reduced;completed;95,42937981218253;51;52
+male;group A;some college;standard;completed;70,5431661186907;96;86
+female;group E;bachelor's degree;free/reduced;none;65,00378905667642;58;62
+male;group D;some college;standard;completed;79,26145554070673;97;99
+male;group B;associate's degree;free/reduced;completed;60,52654779960771;70;63
+male;group D;associate's degree;standard;none;58,247247593939385;48;46
+male;group D;some college;free/reduced;none;69,32632743970207;57;46
+female;group C;some high school;standard;completed;81,09079814722247;51;55
+male;group D;some college;standard;none;82,22297699803612;64;70
+male;group B;high school;standard;none;77,9273969793147;60;65
+female;group B;bachelor's degree;standard;completed;55,39239447646892;74;81
+female;group C;high school;standard;none;84,90491350523087;88;85
+male;group D;some high school;standard;none;79,17937896445807;84;80
+male;group A;high school;standard;none;84,66391761979129;74;64
+female;group B;high school;free/reduced;completed;97,11207136810182;80;81
+female;group D;some high school;standard;completed;74,83615135718424;92;88
+male;group E;some college;standard;none;92,37167990233152;76;74
+female;group D;associate's degree;standard;none;89,04833190374165;74;73
+male;group D;high school;standard;none;92,2548109173292;52;51
+female;group D;associate's degree;free/reduced;completed;69,52117538142771;88;90
+female;group B;some high school;free/reduced;none;86,17606161825645;81;79
+female;group E;high school;standard;completed;61,14867460586723;79;80
+male;group B;high school;standard;none;64,5743528039204;65;60
+female;group B;bachelor's degree;standard;completed;77,61995847394176;81;81
+female;group D;associate's degree;standard;none;55,79959902283502;70;65
+female;group E;high school;free/reduced;none;84,85884317502169;62;68
+female;group B;high school;standard;none;92,94273577578201;53;55
+female;group D;some college;standard;completed;90,16181631275056;79;81
+male;group C;some high school;free/reduced;completed;78,80576601657516;56;53
+female;group A;high school;standard;completed;97,48832438110577;80;76
+female;group D;some college;standard;completed;60,33003364806909;86;98
+female;group A;associate's degree;standard;completed;85,24392630618567;70;74
+female;group B;some high school;standard;none;62,26583794083491;79;79
+female;group B;some college;standard;none;95,50666476002974;67;67
+male;group C;associate's degree;free/reduced;none;96,01745046580766;67;64
+male;group D;some high school;standard;none;86,5773641083206;66;61
+female;group D;associate's degree;free/reduced;none;78,29011120273515;60;58
+male;group D;associate's degree;standard;none;94,24881802450014;87;85
+male;group C;some college;free/reduced;none;74,15186693816759;77;73
+male;group C;some high school;standard;none;96,33088805423591;66;63
+female;group D;some college;free/reduced;none;83,23852310716704;71;69
+female;group C;high school;standard;none;92,61244577835754;69;67
+male;group D;associate's degree;standard;none;73,09295980628643;63;63
+female;group C;some high school;free/reduced;completed;98,26817124846238;60;60
+female;group C;some college;free/reduced;completed;92,06182098038494;73;71
+female;group B;bachelor's degree;free/reduced;none;81,99142247578156;85;87
+male;group C;some college;standard;none;92,06140106012465;74;61
+male;group D;associate's degree;standard;completed;96,29448927877658;72;77
+female;group C;high school;free/reduced;none;73,38219910983454;76;68
+male;group D;associate's degree;free/reduced;none;92,39149751015162;57;50
+female;group C;some college;standard;none;94,02327380962636;78;76
+female;group C;associate's degree;standard;completed;95,70609860552148;84;84
+female;group D;high school;standard;completed;77,0643161294884;77;78
+female;group B;some college;standard;completed;63,49381598977997;64;66
+female;group E;some college;standard;completed;70,50574398442961;78;76
+female;group C;some high school;standard;completed;92,97994157628307;82;76
+male;group D;associate's degree;free/reduced;none;87,29335542697287;75;78
+male;group D;some college;free/reduced;none;71,07053428771086;61;60
+female;group D;high school;standard;none;67,56262238277493;72;74
+male;group B;high school;standard;none;55,97201135100669;68;60
+male;group B;high school;standard;none;64,18932093317342;55;54
+female;group C;some high school;free/reduced;completed;97,31450096499086;40;44
+male;group B;some college;standard;completed;98,60427543358927;66;68
+female;group E;master's degree;standard;completed;73,89747788635368;99;100
+male;group E;some college;standard;completed;76,57309769019874;75;68
+male;group D;associate's degree;free/reduced;none;67,92470811192325;78;73
+male;group A;high school;free/reduced;none;60,28325043566927;58;44
+male;group E;some college;free/reduced;none;79,29435465834972;90;83
+female;group C;associate's degree;standard;none;87,73752926621077;53;53
+female;group E;associate's degree;free/reduced;none;85,20085112880193;76;78
+female;group C;bachelor's degree;free/reduced;completed;86,54133572119315;74;81
+female;group D;associate's degree;standard;none;74,98067725316051;77;73
+female;group C;some high school;standard;none;57,16998907427138;63;56
+female;group D;some college;free/reduced;none;81,614011306153;89;86
+female;group C;associate's degree;standard;completed;97,21790825370894;82;90
+female;group A;bachelor's degree;standard;none;66,67213292421005;72;70
+female;group D;associate's degree;standard;completed;55,56400571680707;78;79
+male;group C;high school;free/reduced;none;73,05832188167913;66;59
+female;group E;bachelor's degree;standard;completed;68,17785509762193;81;82
+female;group B;some high school;standard;none;61,54656229603552;67;72
+male;group A;bachelor's degree;standard;completed;83,23603230517921;84;87
+female;group D;some college;standard;none;63,39058417117744;64;67
+female;group B;some high school;free/reduced;completed;79,83090527846046;63;64
+male;group A;bachelor's degree;free/reduced;none;88,16544938530468;72;65
+male;group D;high school;standard;none;63,121616947780595;34;36
+male;group C;some college;standard;none;82,06272635430827;59;52
+male;group D;high school;standard;none;97,35593781262095;87;79
+female;group D;associate's degree;free/reduced;completed;67,38696436318598;61;58
+male;group C;some college;standard;completed;95,84893083752766;84;90
+female;group E;some high school;standard;completed;88,3290367033846;85;85
+female;group D;some college;standard;none;70,20651509359433;100;99
+male;group D;master's degree;standard;none;67,9663188527515;81;84
+female;group B;some high school;standard;completed;70,03292280157004;70;74
+female;group B;associate's degree;free/reduced;completed;72,0410703057498;94;87
+male;group C;associate's degree;standard;completed;56,648103923114505;78;72
+female;group C;associate's degree;standard;completed;98,78190015073162;96;99
+female;group C;high school;standard;none;91,20714819410398;76;74
+male;group E;associate's degree;free/reduced;completed;59,348832806382745;73;80
+female;group C;some college;free/reduced;none;80,88130337238522;72;70
+male;group D;some high school;free/reduced;completed;70,83725807842777;59;59
+female;group B;some high school;free/reduced;completed;77,90762496757247;90;88
+male;group C;high school;standard;none;83,68632953386975;48;42
+male;group B;some college;standard;none;73,24822221832738;43;41
+male;group E;some college;standard;completed;84,59944534024794;74;71
+female;group E;associate's degree;standard;completed;92,39259414589534;75;77
+male;group E;some high school;standard;completed;75,0903322062371;51;57
+female;group D;high school;free/reduced;none;90,80355067093137;92;84
+male;group C;some college;standard;none;69,89806801523417;39;37
+female;group B;associate's degree;free/reduced;completed;88,94711097378529;77;80
+male;group A;some high school;free/reduced;none;84,99158560277726;46;43
+female;group C;some college;standard;completed;61,44056305583513;89;94
+male;group D;some high school;standard;none;95,79885608264411;47;44
+female;group E;some college;free/reduced;none;74,59891472471149;58;57
+male;group C;master's degree;standard;none;57,09370985004308;57;59
+male;group C;associate's degree;standard;none;68,69665701036139;79;84
+female;group B;some college;free/reduced;completed;63,89260032520061;66;73
+male;group D;associate's degree;standard;none;70,13800884353104;71;73
+male;group C;high school;free/reduced;none;56,547748660761044;60;55
+male;group D;bachelor's degree;standard;none;68,59357388608464;73;72
+female;group A;associate's degree;free/reduced;none;92,08891317411175;57;56
+female;group C;high school;standard;none;96,5755042211886;84;82
+female;group C;associate's degree;standard;completed;89,64644585298842;73;72
+male;group B;some college;free/reduced;none;87,5660259481583;55;47
+male;group D;associate's degree;standard;none;98,6539227460793;79;74
+male;group D;high school;standard;none;59,69251205070853;75;71
+male;group C;some college;standard;none;67,16901066226794;64;68
+female;group C;bachelor's degree;free/reduced;none;81,38068724106651;60;59
+male;group B;some college;standard;completed;75,63109662459948;84;86
+male;group D;some high school;standard;completed;96,47119160300832;69;68
+male;group E;some college;standard;none;97,63711581859008;72;65
+male;group C;master's degree;free/reduced;completed;72,36141741426653;77;75
+female;group C;some high school;standard;completed;79,05318321000291;90;85
+male;group C;associate's degree;free/reduced;none;71,253924910242;55;53
+female;group E;associate's degree;standard;none;55,10796378266561;95;92
+male;group D;some college;standard;none;93,28612541424748;58;52
+male;group E;bachelor's degree;free/reduced;completed;59,00758181441353;68;72
+female;group D;some college;free/reduced;completed;95,97348657421398;59;65
+male;group B;some college;standard;completed;64,66891876317558;77;77
+female;group C;high school;free/reduced;none;64,51046436546278;72;64
+female;group D;some high school;standard;none;98,45019785344368;58;54
+male;group D;some high school;standard;completed;76,73186312221888;81;86
+female;group B;high school;standard;none;89,08093348508469;62;63
+male;group D;some college;standard;none;77,09463967834235;63;59
+female;group B;high school;standard;none;66,9269589585546;72;72
+female;group C;high school;standard;completed;71,5873781406848;75;77
+male;group B;high school;standard;completed;56,84045258546873;62;60
+female;group D;some high school;standard;none;59,2139542130101;71;75
+male;group A;some college;free/reduced;none;71,38464630280775;60;57
+male;group B;high school;standard;none;60,292250645074844;48;49
+male;group D;bachelor's degree;standard;none;74,85174646746815;73;74
+female;group B;some high school;free/reduced;completed;57,351436839652145;67;72
+female;group C;bachelor's degree;free/reduced;none;81,44953957030272;78;79
+male;group B;some college;standard;none;59,777779794481916;65;60
+female;group B;some high school;free/reduced;none;69,14757955357342;58;55
+female;group B;high school;standard;none;97,67068329407157;72;70
+female;group C;some college;free/reduced;none;89,91692842043601;44;43
+female;group A;some college;standard;completed;73,24785309279721;79;82
+male;group E;associate's degree;standard;completed;67,59637611513764;85;82
+female;group D;associate's degree;free/reduced;none;70,03954290775964;56;57
+female;group B;master's degree;standard;none;92,62725641237125;90;84
+female;group B;high school;free/reduced;completed;95,91690317839104;85;82
+female;group C;associate's degree;standard;completed;58,05127544985155;59;62
+male;group C;bachelor's degree;standard;completed;83,79667152601968;81;79
+female;group B;some high school;standard;completed;85,1033008817389;51;44
+female;group E;some high school;free/reduced;none;72,76658294002377;79;77
+female;group B;some college;standard;none;72,03758859302411;38;32
+male;group C;associate's degree;free/reduced;none;71,43226808351812;65;61
+female;group C;master's degree;free/reduced;none;72,04269705976539;65;61
+female;group B;high school;standard;none;87,06888300940258;62;60
+female;group D;some college;free/reduced;none;86,91795892910335;66;70
+male;group D;high school;free/reduced;none;96,09505509542194;74;69
+male;group E;some high school;standard;completed;71,18442718254668;84;77
+female;group B;high school;standard;none;97,28489387729529;52;51
+female;group E;associate's degree;free/reduced;completed;72,43829826672209;68;73
+male;group D;high school;standard;none;82,61990087764278;70;70
+female;group E;associate's degree;free/reduced;none;62,602079547360695;84;81
+male;group E;some college;standard;none;84,52799867056056;60;54
+female;group C;associate's degree;standard;none;97,27811582535404;55;57
+male;group C;some high school;standard;completed;61,23429989419964;73;68
+male;group C;some high school;standard;completed;77,54672760474017;80;73
+female;group E;associate's degree;standard;none;82,86994329077245;94;95
+female;group B;some college;standard;none;96,43860766086178;85;87
+female;group C;some college;standard;none;97,70926059073804;76;78
+male;group A;some college;free/reduced;none;83,31120514553173;81;74
+female;group D;some college;free/reduced;none;78,28205487112594;74;75
+female;group E;high school;free/reduced;none;66,69697151384332;45;40
+male;group C;high school;standard;none;56,22133951390259;75;69
+male;group B;bachelor's degree;standard;none;97,7323659861292;54;51
+male;group A;some high school;standard;none;90,17287284470711;31;36
+male;group A;high school;free/reduced;none;71,04511485085916;47;49
+female;group C;master's degree;standard;completed;96,0402632793615;64;67
+male;group E;some high school;standard;completed;62,363298904659;84;76
+female;group C;high school;standard;none;89,75880031057756;80;83
+male;group B;some high school;standard;completed;90,544325394047;86;87
+female;group A;bachelor's degree;standard;none;63,939480775614996;59;64
+male;group D;bachelor's degree;free/reduced;completed;80,6934005104091;70;76
+female;group B;high school;free/reduced;none;87,75161434911745;72;68
+female;group C;some high school;standard;none;73,1255083464256;91;88
+female;group A;some high school;standard;completed;75,55000486290855;90;92
+female;group D;bachelor's degree;free/reduced;none;95,57408871674093;90;93
+male;group E;some college;free/reduced;completed;93,12060738583394;52;51
+female;group B;high school;free/reduced;none;75,34428241726954;87;82
+female;group C;some high school;free/reduced;none;72,34165768339041;58;52
+male;group C;high school;standard;none;63,577138633995865;67;58
+female;group C;associate's degree;free/reduced;completed;66,09425744047894;68;70
+female;group C;some high school;standard;none;98,72739549389655;69;76
+female;group D;some high school;free/reduced;completed;69,02966733621372;86;81
+male;group B;some high school;standard;none;86,16073544475202;54;53
+female;group A;some college;free/reduced;none;87,13976428519577;60;57
+female;group C;bachelor's degree;free/reduced;completed;79,91732594539971;86;89
+male;group A;bachelor's degree;standard;none;89,1749836319888;60;58
+female;group B;high school;standard;completed;69,90055248778614;82;89
+male;group B;some college;standard;none;88,70366705472478;50;45
+female;group C;high school;standard;completed;86,90273479444207;64;74
+male;group E;high school;standard;none;90,67408143191349;64;57
+female;group A;high school;standard;completed;78,16795952979216;82;79
+male;group B;associate's degree;free/reduced;completed;86,66999628015971;57;53
+female;group C;associate's degree;standard;none;91,39345890026276;77;73
+female;group D;high school;free/reduced;none;65,67323713113895;52;46
+male;group C;some high school;standard;none;67,36573112629954;58;51
+female;group B;high school;free/reduced;completed;92,18317141747305;44;36
+male;group B;some college;free/reduced;completed;60,28144677359926;77;76
+female;group D;some high school;free/reduced;completed;67,58274798103264;65;64
+male;group E;master's degree;standard;none;72,44370985302375;85;84
+male;group C;master's degree;standard;completed;81,79927250645184;85;85
+male;group D;high school;standard;none;93,5118369428597;54;50
+female;group C;high school;standard;none;73,10510314312508;72;68
+male;group D;associate's degree;standard;none;67,54018438000327;75;69
+male;group C;master's degree;standard;none;59,65002122087869;67;67
+female;group A;high school;standard;none;83,55789398073757;68;63
+female;group E;some college;standard;none;86,55737109640185;85;93
+male;group E;some high school;standard;none;81,82842237726659;67;61
+male;group C;some high school;standard;none;93,11729770464441;64;55
+female;group B;bachelor's degree;standard;none;68,93786662507264;97;96
+male;group B;some college;free/reduced;none;83,12520382406913;68;65
+female;group C;bachelor's degree;standard;none;71,17041181172713;79;81
+male;group B;high school;standard;completed;59,663419621558624;49;46
+male;group C;associate's degree;free/reduced;none;83,42621428594634;73;72
+female;group C;associate's degree;standard;none;97,96873988926475;62;53
+female;group E;master's degree;free/reduced;none;93,63814801854295;86;87
+male;group D;bachelor's degree;free/reduced;completed;77,66317913005922;42;38
+female;group C;some college;standard;completed;80,11868104311682;71;80
+male;group C;associate's degree;standard;none;91,47934043753315;93;91
+male;group D;some college;standard;completed;93,21089284069632;82;88
+male;group C;high school;free/reduced;none;78,20960220913626;53;52
+male;group B;associate's degree;standard;none;58,67182045789595;42;41
+male;group E;associate's degree;free/reduced;completed;64,09350086082145;74;72
+male;group C;associate's degree;free/reduced;none;98,43136794152608;51;51
+male;group B;high school;standard;none;92,98363614780881;58;47
+female;group C;some college;standard;completed;66,05921953198308;72;76
+male;group B;associate's degree;standard;completed;60,65336406702195;84;78
+male;group E;associate's degree;free/reduced;none;71,19565373457269;90;82
+female;group C;bachelor's degree;free/reduced;none;59,96641367658885;62;61
+male;group C;some college;free/reduced;none;59,41882181918404;64;66
+male;group D;some college;standard;none;69,37720316913233;82;84
+male;group C;some high school;standard;none;55,68458087788364;61;54
+female;group D;some high school;standard;none;60,55414019272273;72;80
+female;group D;associate's degree;standard;none;82,50027311977135;76;74
+male;group C;bachelor's degree;standard;completed;95,24450294673984;64;66
+female;group E;bachelor's degree;standard;completed;76,83301038417137;70;70
+female;group B;high school;free/reduced;none;64,11573616520641;73;71
+male;group D;bachelor's degree;free/reduced;none;90,18999133217554;46;44
+female;group E;associate's degree;standard;none;79,73320566069691;51;54
+female;group C;associate's degree;standard;completed;62,83707083177747;76;80
+female;group E;associate's degree;standard;completed;58,980959651270084;100;95
+male;group C;high school;free/reduced;none;93,1241016549656;72;59
+female;group D;some college;free/reduced;none;76,0924056740433;65;74
+male;group D;high school;free/reduced;none;65,61963968578263;51;48
+female;group E;some college;standard;completed;75,44074395137332;85;91
+female;group E;associate's degree;standard;none;83,86840879947177;92;85
+female;group A;master's degree;free/reduced;none;63,10993218072534;67;73
+male;group D;some high school;standard;completed;68,67541428331663;74;75
+female;group E;associate's degree;standard;none;62,796111795497836;62;69
+female;group E;some high school;free/reduced;none;56,06592248548504;34;38
+male;group B;high school;free/reduced;none;72,12218441807816;29;27
+female;group B;some high school;free/reduced;completed;74,6998543388557;78;79
+male;group D;associate's degree;standard;completed;73,63711522846094;54;63
+female;group D;some high school;standard;completed;64,16210675475983;78;82
+male;group D;master's degree;standard;none;93,59931666939362;84;89
+female;group C;master's degree;standard;none;81,58521820325592;78;74
+female;group A;high school;free/reduced;completed;66,72732113984428;48;41
+female;group D;bachelor's degree;free/reduced;completed;86,69300653821713;100;100
+female;group D;some high school;free/reduced;none;82,10366475126345;84;84
+male;group D;some college;standard;none;74,34578605610936;77;77
+male;group B;high school;standard;none;91,67448825633984;48;51
+female;group D;some college;standard;completed;98,31369345089973;84;91
+female;group C;bachelor's degree;free/reduced;none;95,56728174030619;75;72
+male;group E;bachelor's degree;standard;completed;70,40194734653562;64;70
+male;group D;bachelor's degree;free/reduced;none;96,32692759998432;42;48
+female;group A;some college;standard;none;69,58892633883522;84;82
+female;group C;bachelor's degree;standard;completed;97,16729617982287;61;66
+female;group C;bachelor's degree;free/reduced;completed;60,41574472733508;62;66
+female;group B;associate's degree;free/reduced;none;93,18523464518235;61;55
+female;group E;some college;standard;none;97,65954229036899;70;66
+male;group E;bachelor's degree;standard;completed;62,693256210753226;100;100
+female;group C;high school;standard;none;97,75475403358783;61;52
+female;group C;associate's degree;standard;completed;61,58137159787275;77;80
+male;group B;some college;standard;completed;73,35421515040895;96;91
+male;group D;high school;free/reduced;none;58,67025198741694;70;67
+female;group C;high school;free/reduced;none;77,35677599321941;53;46
+male;group D;high school;standard;none;89,67267144555008;66;66
+female;group B;associate's degree;free/reduced;none;60,85308571595583;65;65
+male;group D;high school;free/reduced;none;59,711781904266054;70;69
+male;group E;some high school;standard;completed;68,95348409670447;64;60
+male;group E;associate's degree;free/reduced;none;55,75354409624706;56;52
+female;group D;high school;free/reduced;completed;96,85236480459437;61;71
+male;group E;associate's degree;free/reduced;completed;69,45689803927871;43;44
+female;group C;some high school;free/reduced;none;79,85123858177191;56;51
+male;group C;some college;free/reduced;completed;85,79575393169233;74;70
+male;group D;some college;free/reduced;none;81,70574303422046;57;62
+male;group D;associate's degree;free/reduced;completed;80,21677325718308;71;73
+male;group C;bachelor's degree;free/reduced;completed;80,58467850486421;75;74
+male;group C;associate's degree;standard;completed;70,85183610142037;87;90
+male;group D;some college;free/reduced;none;76,00749064776367;63;58
+male;group A;associate's degree;standard;none;94,09339153945047;57;53
+female;group E;high school;free/reduced;none;70,1694008891567;58;57
+male;group D;some college;standard;completed;84,85685090604454;81;85
+male;group D;some high school;standard;completed;78,31495637572311;68;69
+male;group C;master's degree;free/reduced;completed;74,5729267016024;66;72
+female;group D;master's degree;standard;none;68,1781387585346;91;96
+male;group C;high school;standard;none;60,50344272408417;66;64
+male;group A;some high school;free/reduced;completed;59,79603893198891;62;61
+female;group B;high school;standard;none;77,766415221347;68;61
+female;group C;associate's degree;standard;none;97,01556749475753;61;58
+male;group B;high school;standard;none;86,68176652369172;82;80
+female;group D;some college;free/reduced;none;69,82341716980096;58;60
+male;group B;some high school;free/reduced;completed;95,81746165345464;50;52
+female;group E;high school;free/reduced;completed;74,2289396851672;75;73
+male;group E;high school;standard;none;62,73687510321227;73;71
+female;group D;some college;standard;completed;56,873970880368645;77;83
+female;group E;some high school;free/reduced;none;76,05314395708538;74;72
+male;group C;high school;standard;completed;66,23196789265299;52;54
+female;group C;some college;standard;none;84,22250103599197;69;69
+male;group E;associate's degree;standard;none;98,0764174193022;57;62
+male;group C;some college;standard;none;74,04219806983114;87;81
+female;group D;master's degree;standard;none;57,873825979873025;100;100
+female;group D;high school;standard;none;72,05523297887208;63;59
+male;group C;high school;standard;none;87,22323735150334;81;71
+female;group A;some college;standard;none;63,18085483918283;58;64
+female;group D;some high school;free/reduced;none;56,39494217581638;54;53
+female;group E;associate's degree;standard;none;75,26264199323406;100;100
+female;group C;some high school;free/reduced;completed;69,702445320529;76;75
+male;group D;some college;standard;none;92,79206705630222;57;58
+female;group D;some college;standard;none;92,13620278456108;70;72
+male;group A;some high school;standard;completed;63,86763543249555;68;64
+male;group C;some college;standard;none;74,70129210844202;63;60
+female;group E;associate's degree;standard;none;87,42753520320166;76;67
+female;group B;bachelor's degree;standard;none;76,51892671937992;84;80
+female;group D;bachelor's degree;standard;none;75,84613740378362;100;100
+male;group C;some high school;standard;completed;57,389106959016814;72;69
+female;group A;high school;free/reduced;completed;91,32782352204597;50;60
+female;group D;some college;free/reduced;none;87,39197240080296;65;61
+female;group A;some college;standard;none;62,86210621960971;63;67
+female;group C;some college;standard;completed;70,71280221812454;82;77
+male;group B;some college;free/reduced;completed;77,08218293410073;62;60
+male;group C;associate's degree;standard;none;77,96102695279325;65;58
+male;group D;high school;standard;completed;61,397544946000245;41;48
+female;group C;associate's degree;standard;none;69,67825114280866;95;94
+female;group B;high school;free/reduced;none;97,29768556808936;24;23
+male;group D;some high school;standard;none;75,49954264752573;78;78
+male;group B;some high school;standard;completed;79,89665463606042;85;86
+female;group A;some college;standard;completed;97,09124398082348;87;91
+female;group C;some high school;standard;none;69,50487049769205;75;82
+male;group A;high school;standard;none;87,6791429828761;51;54
+female;group C;associate's degree;standard;none;71,42284460581993;59;51
+male;group E;some high school;standard;completed;98,27940597477853;75;76
+female;group A;some high school;free/reduced;none;55,11111552182503;45;45
+female;group D;some college;free/reduced;completed;59,14952441391888;86;83
+male;group E;high school;free/reduced;completed;73,36400926138315;81;75
+female;group B;some high school;standard;completed;98,4343817342023;82;78
+female;group D;associate's degree;free/reduced;none;90,00953164454799;76;76
+female;group D;bachelor's degree;free/reduced;none;67,84871007705856;72;74
+male;group A;high school;standard;none;95,52269954806037;63;62
+female;group E;master's degree;standard;completed;63,04791830436619;99;95
+male;group C;high school;free/reduced;none;79,61013233096416;55;55
+female;group C;high school;free/reduced;completed;88,11469367961186;71;65
+female;group D;some college;standard;completed;86,20972764454464;78;77
+female;group D;some college;free/reduced;none;98,87607786526618;86;86
